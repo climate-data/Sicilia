@@ -14,12 +14,12 @@ Queste stazioni non figurano tra quelle associate a una stazione in TLM eppure n
 
 | Nome stazione | Codice Osservatorio Acque | ISTAT | Stazione in telemisura associata | Note |
 | --- | --- | --- | --- | --- |
-| Bivona | 1480 | --- | NO | Esiste una stazione in telemisura non associata con lo stesso nome |
-| Enna | 1960 | SI | NO | Esiste una stazione in telemisura non associata con lo stesso nome |
-| Licata | 2200 | ---  | NO | Esiste una stazione in telemisura non associata con lo stesso nome |
-| Ragusa | 2370 | SI | NO | Esiste una stazione in telemisura non associata con lo stesso nome |
-| Caltagirone | 3050 | --- | NO | Esiste una stazione in telemisura non associata con lo stesso nome |
-| San Fratello | 310 | --- | NO | Esiste una stazione in telemisura non associata con lo stesso nome |
+| Bivona | 1480 | --- | NO | Esiste una stazione in telemisura "non associata" con lo stesso nome |
+| Enna | 1960 | SI | NO | Esiste una stazione in telemisura "non associata" con lo stesso nome |
+| Licata | 2200 | ---  | NO | Esiste una stazione in telemisura "non associata" con lo stesso nome |
+| Ragusa | 2370 | SI | NO | Esiste una stazione in telemisura "non associata" con lo stesso nome |
+| Caltagirone | 3050 | --- | NO | Esiste una stazione in telemisura "non associata" con lo stesso nome |
+| San Fratello | 310 | --- | NO | Esiste una stazione in telemisura "non associata" con lo stesso nome |
 | Palermo Osservatorio | 880 | SI | NO | --- |
 
 ### Stazioni meccaniche prive di dati nel 2019, senza una stazione in telemisura associata MA di cui abbiamo dati tra il 2015 e il 2018
