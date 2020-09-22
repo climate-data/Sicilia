@@ -10,16 +10,16 @@ Di queste stazioni ci potevano essere inviati i dati del 2019. Non ci sono stati
 
 ### Stazioni meccaniche prive di dati nel 2019 ma che NON figurano tra le stazioni che sono continuate da una stazione in telemisura.
 
-Queste stazioni non figurano tra quelle associate a una stazione in TLM eppure negli anni passati, cosicome nel 2019, I dati di queste stazioni ci sono state forniti. Peraltro, stazioni con lo stesso nome, figurano nell’elenco delle stazioni in TLM. Ma perche’ non sono state associate da Pasotti alle stazioni meccaniche?
+Queste stazioni non figurano tra quelle associate a una stazione in TLM eppure negli anni passati, cosi come nel 2019, I dati di queste stazioni ci sono state forniti. Peraltro, stazioni con lo stesso nome, figurano nell’elenco delle stazioni in TLM. Ma perche’ non sono state associate da Pasotti alle stazioni meccaniche?
 
 | Nome stazione | Codice Osservatorio Acque | ISTAT | Stazione in telemisura associata | Note |
 | --- | --- | --- | --- | --- |
-| Bivona | 1480 | --- | SI | --- |
-| Enna | 1960 | SI | SI | --- |
-| Licata | 2200 | ---  | SI |  Nel file delle stazioni meccaniche con stazione di TLM compare invece Campobello di Licata, codice 2180 |
-| Ragusa | 2370 | SI | SI | Compare nel 2019 quando tutti gli anni precedenti a partire dal 2016 era tutta NA |
-| Caltagirone | 3050 | --- | SI | --- |
-| San Fratello | 310 | --- | SI | --- |
+| Bivona | 1480 | --- | NO | Esiste una stazione in telemisura non associata con lo stesso nome |
+| Enna | 1960 | SI | NO | Esiste una stazione in telemisura non associata con lo stesso nome |
+| Licata | 2200 | ---  | NO | Esiste una stazione in telemisura non associata con lo stesso nome |
+| Ragusa | 2370 | SI | NO | Esiste una stazione in telemisura non associata con lo stesso nome |
+| Caltagirone | 3050 | --- | NO | Esiste una stazione in telemisura non associata con lo stesso nome |
+| San Fratello | 310 | --- | NO | Esiste una stazione in telemisura non associata con lo stesso nome |
 | Palermo Osservatorio | 880 | SI | NO | --- |
 
 ### Stazioni meccaniche prive di dati nel 2019, senza una stazione in telemisura associata MA di cui abbiamo dati tra il 2015 e il 2018
@@ -28,7 +28,7 @@ Perche’ questa stazione non ci e’ stata inviata?
 
 | Nome stazione | Codice Osservatorio Acque | ISTAT | Stazione in telemisura associata | Note |
 | --- | --- | --- | --- | --- |
-| Linguaglossa | 3120 | --- | SI | 
+| Linguaglossa | 3120 | --- | NO | --- | 
 
 ### Stazioni meccaniche prive di dati nel 2019, senza una stazione in telemisura associata e prive di tra il 2015 e il 2018
 
@@ -36,7 +36,7 @@ Perche’ questa stazione non ci e’ stata inviata a partire dal 2016 circa??
 
 | Nome stazione | Codice Osservatorio Acque | ISTAT | Stazione in telemisura associata | Note |
 | --- | --- | --- | --- | --- |
-| Piazza Armerina | 2250 | --- | SI | 
+| Piazza Armerina | 2250 | --- | NO | --- |
 
 
 ### Stazioni di cui abbiamo i dati nel 2019 e che compaiono nel file delle stazioni meccaniche con stazione in telemisura
