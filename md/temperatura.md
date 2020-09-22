@@ -1,3 +1,7 @@
+Se una stazione meccanica e' associata o meno a una stazione in telemisura e' un'informazione passata dall'ente di competenza delle stazioni.
+
+Il codice ID si riferisce al codice interno all'anagrafica delle stazioni.
+
 ### Stazioni meccaniche che hanno associata una stazione in telemisura ma di cui non abbiamo i dati per il 2019. 
 
 Di queste stazioni ci potevano essere inviati i dati del 2019. Non ci sono stati inviati per motivi di tempo o per altri motivi?
