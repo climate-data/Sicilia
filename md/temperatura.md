@@ -16,12 +16,12 @@ Di queste stazioni ci potevano essere inviati i dati del 2019. Non ci sono stati
 
 Queste stazioni non figurano tra quelle associate a una stazione in TLM eppure negli anni passati, cosi come nel 2019, I dati di queste stazioni ci sono state forniti. Peraltro, stazioni con lo stesso nome, figurano nell’elenco delle stazioni in TLM. Ma perche’ non sono state associate da Pasotti alle stazioni meccaniche?
 
-| ID | Nome stazione | Codice Osservatorio Acque | ISTAT | Stazione in telemisura associata | Note |
-| --- | --- | --- | --- | --- | --- |
+| ID | Nome stazione | Codice Osservatorio Acque | ISTAT | Stazione in telemisura associata | Note | Note2 |
+| --- | --- | --- | --- | --- | --- | --- |
 | 29 | Bivona | 1480 | --- | NO | Esiste una stazione in telemisura "non associata" con lo stesso nome |
 | 48 | Enna | 1960 | SI | NO | Esiste una stazione in telemisura "non associata" con lo stesso nome |
 | 56 | Licata | 2200 | ---  | NO | Esiste una stazione in telemisura "non associata" con lo stesso nome |
-| 66 | Ragusa | 2370 | SI | NO | Esiste una stazione in telemisura "non associata" con lo stesso nome |
+| 66 | Ragusa | 2370 | SI | NO | Esiste una stazione in telemisura "non associata" con lo stesso nome | Farci inviare dati 2016 -2018 |
 | 82 | Caltagirone | 3050 | --- | NO | Esiste una stazione in telemisura "non associata" con lo stesso nome |
 | 85 | San Fratello | 310 | --- | NO | Esiste una stazione in telemisura "non associata" con lo stesso nome |
 | 147 | Palermo Osservatorio | 880 | SI | NO | --- |
@@ -38,9 +38,9 @@ Perche’ questa stazione non ci e’ stata inviata?
 
 Perche’ questa stazione non ci e’ stata inviata a partire dal 2016 circa??
 
-| ID | Nome stazione | Codice Osservatorio Acque | ISTAT | Stazione in telemisura associata | Note |
-| --- | --- | --- | --- | --- | --- |
-| 60 | Piazza Armerina | 2250 | --- | NO | --- |
+| ID | Nome stazione | Codice Osservatorio Acque | ISTAT | Stazione in telemisura associata | Note | Note2 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 60 | Piazza Armerina | 2250 | --- | NO | --- | Farci inviare dati 2016 -2019 |
 
 
 ### Stazioni di cui abbiamo i dati nel 2019 e che compaiono nel file delle stazioni meccaniche con stazione in telemisura
