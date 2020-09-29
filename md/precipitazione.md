@@ -1,3 +1,7 @@
+### Note 29 settembre 2020
+
+Rivedere le serie SCIA su tutti gli anni: sembra che gli zeri siano tutti NA!
+
 | ID  | Disponibilita dati 2019 | Codice Osservatorio Acque | Nome stazione                    | Codice ISTAT | Stazione in telemisura associata | note                                                   |
 |-----|-------------------------|---------------------------|----------------------------------|--------------|-------------------------------------------|--------------------------------------------------------|
 | 133 | ---                     | 550                       | Alia                             | ---          | ---                                       | ---                                                    |
