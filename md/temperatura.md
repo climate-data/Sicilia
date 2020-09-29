@@ -6,11 +6,11 @@ Il codice ID si riferisce al codice interno all'anagrafica delle stazioni.
 
 Di queste stazioni ci potevano essere inviati i dati del 2019. Non ci sono stati inviati per motivi di tempo o per altri motivi?
 
-| ID | Nome stazione | Codice Osservatorio Acque | ISTAT | Stazione in telemisura associata | Note |
-| --- | --- | --- | --- | --- | --- |
+| ID | Nome stazione | Codice Osservatorio Acque | ISTAT | Stazione in telemisura associata | Note | Note2 |
+| --- | --- | --- | --- | --- | --- | --- |
 | 22 | Sciacca | 1400 | --- |Si | Chiedere perche' non sono stati inviati i dati nel 2019 |
-| 74 | Lentini citta | 2580 | --- |Si | Stazione meccanica dismessa. La corrispondente in TLM ha avuto problemi gravi nel 2019 |
-| 149 | San Giuseppe Jato | 950 | --- | Si | Stazione meccanica dismessa. La corrispondente in TLM ha avuto problemi gravi nel 2019 |
+| 74 | Lentini citta | 2580 | --- |Si | Stazione meccanica dismessa. La corrispondente in TLM ha avuto problemi gravi nel 2019 | Chedere dati 2018 -2019 |
+| 149 | San Giuseppe Jato | 950 | --- | Si | Stazione meccanica dismessa. La corrispondente in TLM ha avuto problemi gravi nel 2019 | Chedere dati 2018 -2019 |
 
 ### Stazioni meccaniche prive di dati nel 2019 ma che NON figurano tra le stazioni che sono continuate da una stazione in telemisura.
 
@@ -22,7 +22,7 @@ Queste stazioni non figurano tra quelle associate a una stazione in TLM eppure n
 | 48 | Enna | 1960 | SI | NO | Esiste una stazione in telemisura "non associata" con lo stesso nome |
 | 56 | Licata | 2200 | ---  | NO | Esiste una stazione in telemisura "non associata" con lo stesso nome |
 | 66 | Ragusa | 2370 | SI | NO | Esiste una stazione in telemisura "non associata" con lo stesso nome | Farci inviare dati 2016 -2018 |
-| 82 | Caltagirone | 3050 | --- | NO | Esiste una stazione in telemisura "non associata" con lo stesso nome |
+| 82 | Caltagirone | 3050 | --- | NO | Esiste una stazione in telemisura "non associata" con lo stesso nome | Piero ha piu' dati mancanti nel 2014 |
 | 85 | San Fratello | 310 | --- | NO | Esiste una stazione in telemisura "non associata" con lo stesso nome |
 | 147 | Palermo Osservatorio | 880 | SI | NO | --- |
 
@@ -30,9 +30,9 @@ Queste stazioni non figurano tra quelle associate a una stazione in TLM eppure n
 
 Perche’ questa stazione non ci e’ stata inviata?
 
-| ID | Nome stazione | Codice Osservatorio Acque | ISTAT | Stazione in telemisura associata | Note |
-| --- | --- | --- | --- | --- | --- |
-| 87 | Linguaglossa | 3120 | --- | NO | --- | 
+| ID | Nome stazione | Codice Osservatorio Acque | ISTAT | Stazione in telemisura associata | Note | Note2 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 87 | Linguaglossa | 3120 | --- | NO | --- | Mancano dati nel 2019 | 
 
 ### Stazioni meccaniche prive di dati nel 2019, senza una stazione in telemisura associata e prive di tra il 2015 e il 2018
 
@@ -54,4 +54,14 @@ Queste stazioni non hanno problemi.
 | 24 | Piano del Leone | 1420 | --- | SI | --- |
 | 41 | Agrigento | 1810 | SI | SI | --- |
 | 136 | Ciminna | 660 | --- | SI | --- |
+
+
+### Altre note (29 settembre 2020)
+
+- Stazione di temperatura 89 passata da Piero ma non sta nella lista di stazioni identificate per la temperatura: di questa serie bisognerebbe richiedere i dati 2017 e 2018. Chiedere a Emanuela da dove esce fuori questa stazione, perche' Piero la ha inviata?
+- Su SCIA mancano i dati 2019
+- Su SCIA mancano i dati prima del 1924 (?) [1961-1923]
+- Su SCIA le serie prima del 2015 hanno meno buchi su alcune stazioni rispetto alle serie di Guido-> sostituire le serie di Guido con quelle SCIA
+
+
 
