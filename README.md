@@ -15,5 +15,11 @@ Revisione dati delle serie di [temperatura](./md/temperatura.md)
 
 Revisione dati delle serie di [precipitazione](./md/precipitazione.md)
 
+### Revisione dati Sicilia su SCIA 
+
+- Perche' Piero non mi ha passato i dati prima del 1924 per la Sicilia: ci stanno su SCIA?
+- Guido: riprendere le serie di temperatura di SCIA e sostituirle (mi passa i dati Emanuela)
+- Precipitazione: ritrovare le serie storiche (me li invia Emanuela).
+
 
 
