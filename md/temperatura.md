@@ -1,6 +1,18 @@
+A settembre 2020 sono state analizzate le serie di temperatura utilizzate per il Rapporto "Gli Indicatori del Clima in Italia" e le serie inviate dall'Osservatorio Acque, con particolare attenzione alle serie "ISTAT".
+
+Per "ISTAT" si intende le stazioni i cui dati vengono passati all'ISTAT: sono stazioni di cui l'ente di competenza cerca di mantenere una buona qualita' del dato. 
+
+Domande: 
+ - Queste stazioni "ISTAT" possono essere utilizzate per il Rapporto Indicatori?
+ - Queste stazioni coincidono con quelle attualmente utilizzate per il Rapporto Indicatori?
+ - Vanno rivisti i criteri di continuità e completezza delle serie?
+
+---
+
 Se una stazione meccanica e' associata o meno a una stazione in telemisura e' un'informazione passata dall'ente di competenza delle stazioni.
 
 Il codice ID si riferisce al codice interno all'anagrafica delle stazioni.
+
 
 ### Stazioni meccaniche che hanno associata una stazione in telemisura ma di cui non abbiamo i dati per il 2019. 
 
