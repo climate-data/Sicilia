@@ -1,3 +1,38 @@
+### Tabella riepilogativa stazioni storiche ex Osservatorio Acque (ottobre 2020) ###
+
+| ID  | Disponibilita dati 2019 | Codice Osservatorio Acque | Nome stazione                    | Codice ISTAT | Stazione in telemisura associata | Utilizzata per rapporto 2019 | note                                |
+|-----|-------------------------|---------------------------|----------------------------------|--------------|----------------------------------|------------------------------| ---------------------------------------------------|
+|  41 | SI                      | 1810                      | Agrigento                        | 8907         | SI                               | SI                           |                                                    |
+|  29 | SI                      | 1480                      | Bivona                           | ---          | NO                               | SI                           |                                                    |
+|  82 | SI                      | 3050                      | Caltagirone                      | ---          | NO                               | SI                           |                                                    |
+| 136 | SI                      |  660                      | Ciminna                          | ---          | SI                               | SI                           |                                                    |
+|  48 | SI                      | 1960                      | Enna                             | ---          | NO                               | SI                           |                                                    |
+|  74 | ---                     | 2580                      | Lentini città                    | ---          | SI                               | ---                          |stazione dismessa; problemi con la corrisp. in TLM|
+|  56 | SI                      | 2200                      | Licata                           | ---          | NO                               | SI                           |                                                    |
+|  87 | ---                     | 3120                      | Linguaglossa                     | ---          | NO                               | ---                          | ??                                                 |
+|   9 | SI                      | 1120                      | Marsala                          | ---          | SI                               | SI                           |                                                    |
+|  83 | SI                      | 3060                      | Mineo                            | ---          | SI                               | SI                           |                                                    |
+| 147 | SI                      |  880                      | Palermo Oss. Astronomico         | 9155         | NO                               | SI                           |                                                    |
+|  24 | SI                      | 1420                      | Piano del Leone                  | ---          | SI                               | SI                           |                                                    |
+|  60 | ---                     | 2250                      | Piazza  Armerina                 | ---          | NO                               | ---                          |stazione dismessa                                 |
+|  66 | SI                      | 2370                      | Ragusa                           | 9200         | NO                               | SI                           |                                                    |
+|  85 | SI                      |  310                      | San Fratello                     | ---          | NO                               | SI                           |                                                    |
+| 149 | ---                     |  950                      | San Giuseppe Jato                | ---          | SI                               | ---                          |stazione dismessa; problemi con la corrisp. in TLM|
+|  22 | ---                     | 1400                      | Sciacca                          | ---          | SI                               | ---                          | ??                                                 |
+|  50 | SI                      | 2020                      | Caltanissetta                    | 8949         | NO                               | NO                           |                                                    |
+|  89 | SI                      | 3160                      | Catania Ist. Agrario             | 8991         | SI                               | NO                           |                                                    |
+|  48 | SI                      | 1960                      | Enna                             | 9046         | NO                               | SI                           |                                                    |
+|  98 | SI                      | 3380                      | Messina Ist. Geofisico           | 9120         | SI                               | NO                           |                                                    |
+|  66 | SI                      | 2370                      | Ragusa                           | 9200         | NO                               | NO                           |                                                    |
+|   2 | SI                      | 1030                      | Trapani                          | 9279         | NO                               | NO                           |                                                    |
+|     | SI                      | 2252                      | Geracello                        | 9328         | SI                               | NO                           |                                                    |
+
+
+---------
+
+
+
+
 A settembre 2020 sono state analizzate le serie di temperatura utilizzate per il Rapporto "Gli Indicatori del Clima in Italia" e le serie inviate dall'Osservatorio Acque, con particolare attenzione alle serie "ISTAT".
 
 Per "ISTAT" si intende le stazioni i cui dati vengono passati all'ISTAT: sono stazioni di cui l'ente di competenza cerca di mantenere una buona qualita' del dato. 
