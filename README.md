@@ -22,7 +22,7 @@ Revisione dati delle serie di [precipitazione](./md/precipitazione.md)
 # Da fare (1 Ottobre 2020):
 
 - Utilizzare le serie SCIA per il Rapporto "Gli Indicatori del Clima" (sostituire le serie attuali con quelle di SCIA)
-- Caricare su SCIA le serie di precipitazione corrette, prive di NA (**verificarlo con Piero**)
+- Caricare su SCIA le serie di precipitazione corrette, prive di NA (**verificarlo con Piero**) :jack_o_lantern:
 - Verificare su SCIA disponibilità dei dati prima del 1924, alcune serie dovrebbero arrivare fino al 1916 (**verificarlo con Piero**)
 - Integrare alle serie SCIA di temperatura tutti i dati del 2019, comprese le serie "ISTAT"
 - Richiedere all'Osservatorio Acque i dati di precipitazione del 2019 (molte serie non sono state inviate)
