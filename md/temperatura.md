@@ -37,11 +37,6 @@ A settembre 2020 sono state analizzate le serie di temperatura utilizzate per il
 
 Per "ISTAT" si intende le stazioni i cui dati vengono passati all'ISTAT: sono stazioni di cui l'ente di competenza cerca di mantenere una buona qualita' del dato. 
 
-Domande: 
- - Queste stazioni "ISTAT" possono essere utilizzate per il Rapporto Indicatori?
- - Queste stazioni coincidono con quelle attualmente utilizzate per il Rapporto Indicatori?
- - Vanno rivisti i criteri di continuità e completezza delle serie?
-
 ---
 
 Se una stazione meccanica e' associata o meno a una stazione in telemisura e' un'informazione passata dall'ente di competenza delle stazioni.
@@ -103,12 +98,6 @@ Queste stazioni non hanno problemi.
 | 136 | Ciminna | 660 | --- | SI | --- |
 
 
-### Altre note (29 settembre 2020)
+### Altre note (5 Ottobre 2020)
 
-- Stazione di temperatura 89 passata da Piero ma non sta nella lista di stazioni identificate per la temperatura: di questa serie bisognerebbe richiedere i dati 2017 e 2018. Chiedere a Emanuela da dove esce fuori questa stazione, perche' Piero la ha inviata?
-- Su SCIA mancano i dati 2019
-- Su SCIA mancano i dati prima del 1924 (?) [1961-1923]
-- Su SCIA le serie prima del 2015 hanno meno buchi su alcune stazioni rispetto alle serie di Guido-> sostituire le serie di Guido con quelle SCIA
-
-
-
+- Su SCIA la serie 2540 coincide con la 2545
