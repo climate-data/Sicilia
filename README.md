@@ -3,7 +3,7 @@
 
 ## Temperatura :sunny:
 
-Ottobre 2020:
+5 Novembre 2020:
 - Le serie SCIA di temperatura consistono nei dati HisCentral (fino al 2008) piu' le serie inviate dall'Osservatorio Acque a Franco
 - Le serie di temperatura su cui Guido calcola gli indicatori per il rapporto "Gli Indicatori del Clima" consistono nei dati HisCentral (fino al 2008) 
 piu' le serie inviate dall'Osservatorio Acque a Guido (probabilmente nel 2016)
